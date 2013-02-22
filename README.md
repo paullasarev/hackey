@@ -24,18 +24,18 @@ variant 2: left- and rigth- sided units, rotate and kick - by mouse wheel/two-fi
  ***  *
       *
       *
-	    *
-```	  
-	  
+      *
+```
+  
 ```
       *
       *
-	    *
+      *
  ***  *
 ***** *
  ***
-```	  
-	  
+```  
+
 active element of play unit - body (circle) and board (rectangle) as foot/finger
 * number inside the circle
 * color by teams
